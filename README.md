@@ -3,10 +3,7 @@
 A virtual keyboard for typing N'ti text in your web browser. It is a single HTML file with the **TSG N'ti** font built in, so it works offline, needs no installation, and sends nothing over the internet.
 
 ## Try it
-
-**[Open the keyboard](https://YOUR-USERNAME.github.io/nti-keyboard/)**
-
-Or download `nti-keyboard.html` and double-click it to open it in any current browser (Chrome, Edge, Firefox or Safari).
+ download `nti-keyboard.html` and double-click it to open it in any current browser (Chrome, Edge, Firefox or Safari).
 
 ## How to type
 
