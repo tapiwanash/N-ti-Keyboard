@@ -1,4 +1,4 @@
-# N'ti keyboard
+# Nti keyboard
 
 A virtual keyboard for typing N'ti text in your web browser. It is a single HTML file with the **TSG N'ti** font built in, so it works offline, needs no installation, and sends nothing over the internet.
 
